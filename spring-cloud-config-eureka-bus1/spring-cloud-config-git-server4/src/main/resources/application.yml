@@ -9,8 +9,8 @@ spring:
         git:
           uri: https://github.com/kaeter/spiring-cloud-test/
           search-paths: config-repo
-          username: 609223790@qq.com
-          password: hkf0611
+          username: *************
+          password: *******
 eureka:
   client:
     serviceUrl:
